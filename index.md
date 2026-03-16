@@ -1,5 +1,5 @@
 # 输出的index.html的模版
-> 请考虑方括号里的信息
+> 请考虑并理解方括号里的信息
 
 ```html
 <!DOCTYPE html>
@@ -76,6 +76,7 @@
         [....其他语言的文稿脚本和音频文件....]
     </div>
 
+    [重要：footer必须每次放入index.html底部]
     <footer>
         <!-- GitHub Icon -->
         <a href="https://github.com/XinyueZ/TinyAgent/blob/main/tiny_agent/agent/tiny_coding_agent.py" target="_blank" class="icon-btn" title="View on GitHub">
