@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>AI News Weekly Updates [这里填入更新日期 <总的更新时间戳>]</title>
+    <title>AI News Weekly Updates [这里填入更新日期 <总的更新时间戳, 格式是dd-mm-yyyy>]</title>
     <style>
         body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; padding: 20px; background-color: #f4f4f9; }
         .audio-container { margin: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 12px; width: 80%; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
@@ -41,7 +41,7 @@
     </style>
 </head>
 <body>
-    <h1>AI News Weekly Updates - [这里更新日期 <总的更新时间戳>]</h1>
+    <h1>AI News Weekly Updates - [这里更新日期 <总的更新时间戳, 格式是dd-mm-yyyy>]</h1>
     <div id="content" style="width: 100%; display: flex; flex-direction: column; align-items: center;">
 
         <div class="audio-container">
